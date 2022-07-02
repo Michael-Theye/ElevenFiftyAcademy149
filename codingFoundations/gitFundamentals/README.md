@@ -8,6 +8,10 @@ Here is a growing collection of resources and helpful commands to know whne work
 
 -[git config](./commands/Config.md)
 
-- [git init](./commands/Init.md)
+-[git init](./commands/Init.md)
 
 -[git init](./commands/Add.md)
+
+-[git init](./commands/Commit.md)
+
+-[git init](./commands/Remote.md)

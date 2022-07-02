@@ -16,4 +16,4 @@ You can track changed to specific files using `git add DirectoryName`.
 
 ---
 
-[Back toi home](../README.md)
+[Back to home](../README.md)
