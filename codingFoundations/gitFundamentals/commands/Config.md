@@ -10,7 +10,7 @@ git config --global user.email "michaeltheye@gmail.com"
 
 For more information, view the [first time git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) documentation
 
-##Resources
+## Resources
 
 -[Git Confiq Documentation](https://git-scm.com/docs/git-confiq)
 
