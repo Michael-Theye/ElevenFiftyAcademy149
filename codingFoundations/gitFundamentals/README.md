@@ -10,14 +10,16 @@ Here is a growing collection of resources and helpful commands to know whne work
 
 -[git init](./commands/Init.md)
 
--[git init](./commands/Add.md)
+-[git add](./commands/Add.md)
 
--[git init](./commands/Commit.md)
+-[git commit](./commands/Commit.md)
 
--[git init](./commands/Remote.md)
+-[git remote](./commands/Remote.md)
 
--[git init](./commands/Push.md)
+-[git push](./commands/Push.md)
 
--[git init](./commands/Pull.md)\
+-[git pull](./commands/Pull.md)
 
--[git init](./commands/Status.md)
+-[git status](./commands/Status.md)
+
+-[git clone](./commands/Clone.md)
