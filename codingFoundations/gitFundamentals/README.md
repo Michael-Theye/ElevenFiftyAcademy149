@@ -15,3 +15,6 @@ Here is a growing collection of resources and helpful commands to know whne work
 -[git init](./commands/Commit.md)
 
 -[git init](./commands/Remote.md)
+
+-[git init](./commands/Push.md)
+
