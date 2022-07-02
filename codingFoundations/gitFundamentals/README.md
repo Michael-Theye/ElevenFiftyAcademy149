@@ -18,3 +18,6 @@ Here is a growing collection of resources and helpful commands to know whne work
 
 -[git init](./commands/Push.md)
 
+-[git init](./commands/Pull.md)\
+
+-[git init](./commands/Status.md)
