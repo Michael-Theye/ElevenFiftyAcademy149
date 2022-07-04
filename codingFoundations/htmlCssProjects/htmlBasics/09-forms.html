@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Forms</title>
+    </head>
+    <body>
+        <h1>Forms</h1>
+        
+        <h2>Basic Form with Input Fields</h2>
+    <div>
+        <form>
+            <p>
+                <label> Customer Name: <input /></label>
+            </p>
+            <p>
+                <label>Street Address: <input /></label>
+            </p>
+            <p>
+                <label>City: <input /></label>
+            </p>
+            <p>
+                <label>Area Code: <input /></label>
+            </p>
+            <p>
+                <label>Telephone: <input /></label>
+            </p>
+        </form>
+    </div>
+
+    <div style="border: solid 2px black; padding: .5rem;">
+        <form>
+            <fieldset>
+                <legend>Customer Information</legend>
+                <p>
+                    <label>Customer Name: <input name="name" /></label>
+                </p>
+                <p>
+                    <label>Telephone: <input type="tel" /></label>
+                </p>
+                <p>
+                    <label>Email Address: <input type="email" name="email"/></label>
+                </p>
+            </fieldset>
+        </form>
+    </div>
+    <br />
+    <fieldset>
+        <legend>Size</legend>
+        <p>
+            <input type="radio" name="size" id="size0" value="size0" />
+            <label for="size0">Humongous</label>
+        </p>
+        <p>
+            <input type="radio" name="size" id="size2" value="size2" />
+            <label for="size3">Just A Small, Please</label>
+        </p>
+    </fieldset>
+    <br />
+    <fieldset>
+        <legend>Fixins</legend>
+        <p>
+            <input type="checkbox" name="fixins" id="onions" value="onions" />
+            <label for="onions">Sauteed Onions</label>
+        </p>
+        <p>
+            <input type="checkbox" name="fixins" id="guacamole" value="guacamole" />
+            <label for="guacamole">guacamole</label>
+        </p>
+        <p>
+            <input type="checkbox" name="fixins" id="queso" value="queso" />
+            <label for="queso">Queso</label>
+         </p>   
+         <p>
+         <input type="checkbox" name="fixins" id="lettuce" value="lettuce" />
+         <label for="lettuce">Lettuce</label>
+         </p>
+         <p>
+            <input type="checkbox" name="fixins" id="beans" value="beans" />
+            <label for="beans">Refried Beans</label>
+         </p>
+         <p>
+            <input type="checkbox" name="rice" id="rice" value="rice" />
+            <label for="rice">Rice</label>
+         </p>
+    </fieldset>
+    <br />
+    <fieldset>
+        <legend>Delivery Instructions</legend>
+        <p>
+            <label for="time">Preferred Delivery Time:</label>
+            <input id="time" name="time" type="time" min="11:00" max="21:00" step="900">
+        </p>
+        <p>
+            Delivery Instructions
+            <textarea name="instructions"></textarea>
+            </p>
+            <p>
+            <button type="submit">Submit Order</button>
+        </p>
+    </fieldset>
+<!-- Come back and do the challenge at a later date right now I am lost -->
+</body>
+</html>
