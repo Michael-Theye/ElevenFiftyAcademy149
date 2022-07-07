@@ -1,5 +1,5 @@
 .kirby {
-    margin: 50px;
+    margin: 500px;
 }
 
 
@@ -109,3 +109,10 @@
     left: 200px;  
 }
 
+.background-one {
+    background-image: url(./assets/1.webp);
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}

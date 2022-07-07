@@ -1,0 +1,21 @@
+body {
+    background-color: yellow;
+}
+
+.css-class {
+    background-color: lightgray;
+}
+
+.css-class h1 {
+    font-size: 18px;
+}
+
+
+.css-class p{
+    font-size: 16px; 
+    color: orangered;
+}
+
+.css-class li {
+    color: navy;
+}
