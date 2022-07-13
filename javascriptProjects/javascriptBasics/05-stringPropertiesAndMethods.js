@@ -34,3 +34,16 @@ console.log(myName.length)
     let home2 = "My home is Texas part 2"
     console.log(home2.includes(2)); //OUTPUT: True becaused the includes method is NOT comparing Data TYPES.
     // NOTE: the includes method is NOT exclusive to just strings.
+
+    /*
+    USE GOOGLE! Open-book challenge. Research and use the split method to get an array of seperate words back from the sentence that is provided
+    */
+   //This split method is can be done in either single character, another string, or a regular expression. Once you input the command to split it it will not do any modifications on the original string the method to splitting is shown below is how to split all characters into an array! The reasoning I believe for this used for real time applications that need work on words used inside the string rather than the whole string itself
+    // This split method splits a string into substrings, returns in a new array, The split method does not change the original string
+    let str ="This sentence is going to be split into individual parts!"
+    let splitStr =str.split(" "); //OUTPUT: Splits into serparate words
+    console.log(splitStr);//OUTPUT: Original array
+
+    let sentence = "This sentence is going to split into individual parts!";
+const myArray = sentence.split(" ");
+console.log(myArray);
