@@ -1,0 +1,17 @@
+.images {
+   margin: 0;
+   padding: 0;
+   padding-top: 10px;
+   text-align: center;
+
+}
+h3{
+display: inline;
+margin: 20px;
+padding: 20px;
+position: relative;
+}
+
+.products {
+    text-align: center;
+}
