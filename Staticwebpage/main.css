@@ -1,17 +1,62 @@
 .images {
-   margin: 0;
-   padding: 0;
-   padding-top: 10px;
-   text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    text-align: center;
 
 }
-h3{
-display: inline;
-margin: 20px;
-padding: 20px;
-position: relative;
+
+h3 {
+    display: inline;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    color: rebeccapurple;
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
 }
 
 .products {
     text-align: center;
+}
+
+h1 {
+    position: relative;
+    bottom: 95px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration-color: blue;
+}
+
+header {
+    padding: 1em 50em;
+    margin: 0em 0em 0em;
+    background: black url(./assets/Header\ img.png) center 15px;
+    background-repeat: no-repeat;
+}
+
+.picturewrapper {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 320px;
+    font-size: 19x;
+    padding-top: 60px;
+    text-decoration: none;
+}
+
+footer {
+    padding: 5em 50em;
+    margin: 0em 0em 0em;
+    background: black url(./assets/Header\ img.png) center 15px;
+    background-repeat: no-repeat;
+    text-align: right;
+    float: left;
+}
+
+footer ul#contactFooter {
+    position: relative;
+    bottom: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    left: 300px
+}
+
+body {
+    background-color: black;
 }
