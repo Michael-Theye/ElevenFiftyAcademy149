@@ -39,6 +39,7 @@ function displayData(pokemon) {
     pokeName.textContent = pokemon.species.name;
     PokeDiv.appendChild(pokeName)
 
+
     const PokeSprites = document.createElement('img')
     PokeSprites.src = pokemon.sprites.front_default;
     PokeDiv.appendChild(PokeSprites)
