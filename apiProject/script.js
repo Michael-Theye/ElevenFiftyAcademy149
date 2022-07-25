@@ -43,6 +43,10 @@ function displayData(pokemon) {
     PokeSprites.src = pokemon.sprites.front_default;
     PokeDiv.appendChild(PokeSprites)
 
+    const PokeSpritesS = document.createElement('img')
+    PokeSpritesS.src = pokemon.sprites.front_shiny;
+    PokeDiv.appendChild(PokeSpritesS)
+
     // const PokeMoves = document.createElement('p')
     // PokeMoves.textContent = pokemon.
     // PokeDiv.appendChild(PokeMoves)
@@ -77,6 +81,8 @@ function displayData(pokemon) {
     PokeDiv.appendChild(PokeStatsSPD)
     PokeStatsSPD.style = "color: blue"
 
+
+
     const PokeTypes = document.createElement('p')
     // PokeTypes.textContent = pokemon.type[0].type.name
 
@@ -92,6 +98,8 @@ function displayData(pokemon) {
 
 
     }
+    
+    
     PokeDiv.appendChild(PokeTypes)
 
     const PokeAbilities = document.createElement('p')
@@ -119,4 +127,3 @@ function displayData(pokemon) {
 
     containerDiv.appendChild(PokeDiv)
 }
-
