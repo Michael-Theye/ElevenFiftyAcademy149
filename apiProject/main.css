@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    position: relative;
+    left: 3em;
+    bottom: 3em;
+
+}
+#bar {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    position: relative;
+    top: 9em;
+    margin-right: 13em;
+    /* border:solid 1px blue;
+    background: blue;
+    padding: 5px 5px 5px 5px; */
+
+}
+
+
+
+p {
+    text-align: center;
+   position: relative;
+   right: 8em;
+   bottom: 7.5em;
+}
+
+img {
+    text-align: center;
+    position: relative;
+    top: 10em;
+    right: 8em;
+    width: 10em;
+    height: 10em;
+}
+
+
+
+
+/* .div {
+    text-align: center;
+} */
+
+/* #PokeSprites {
+    text-align: center;
+    position: relative;
+} */
+
+body{
+    background-image: url(./assets//background\ image.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container{  
+    /* width: 140em;
+    height:  30em;  */
+    background: transparent;
+    background-image: url(./assets/R.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20% 100%
+}
