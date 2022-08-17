@@ -1,0 +1,15 @@
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.csproj.AssemblyReference.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.AssemblyInfoInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.AssemblyInfo.cs
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.exe
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.deps.json
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.runtimeconfig.json
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\bin\Debug\net6.0\ReferenceTypes.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\refint\ReferenceTypes.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\ReferenceTypes.genruntimeconfig.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\ReferenceTypes\obj\Debug\net6.0\ref\ReferenceTypes.dll

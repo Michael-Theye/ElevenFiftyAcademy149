@@ -1,0 +1,15 @@
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\bin\Debug\net6.0\Classes.exe
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\bin\Debug\net6.0\Classes.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\bin\Debug\net6.0\Classes.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\Classes.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\Classes.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Classes\obj\Debug\net6.0\ref\Classes.dll

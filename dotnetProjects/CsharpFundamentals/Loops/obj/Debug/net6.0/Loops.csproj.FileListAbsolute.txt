@@ -1,0 +1,15 @@
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\bin\Debug\net6.0\Loops.exe
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\bin\Debug\net6.0\Loops.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\bin\Debug\net6.0\Loops.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\Loops.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\refint\Loops.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\Loops.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Loops\obj\Debug\net6.0\ref\Loops.dll

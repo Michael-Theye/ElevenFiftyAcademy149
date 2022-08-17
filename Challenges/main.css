@@ -1,0 +1,60 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3 {
+    color: lightpink;
+}
+
+p {
+    color: lightskyblue;
+    display: inline-block;
+}
+
+h4 {
+    text-align: center;
+    color: lightgoldenrodyellow;
+}
+
+.container {
+    border: 5px solid lightsteelblue;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: lightblue;
+    
+}
+
+.one {
+    border: 5px solid lightsteelblue;
+    padding: 8px;
+    border-radius: 50px;
+    background-color: lightseagreen;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.two{
+    border: 5px solid lightsteelblue;
+    padding: 8px;
+    border-radius: 50px;
+    background-color: lightseagreen;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+
+.three {
+    border: 5px solid lightsteelblue;
+    padding: 8px;
+    border-radius: 50px;
+    background-color: lightseagreen;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+
+body {
+   background-color: lightsteelblue;
+}

@@ -8,6 +8,7 @@
     for (initial expression, condition, increment expression) {
         NESTED LOGIC
     }
+    i++ is going to iterate through 1-100
 */
 
 let i = 9;

@@ -1,0 +1,15 @@
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\bin\Debug\net6.0\Operators.exe
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\bin\Debug\net6.0\Operators.deps.json
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\bin\Debug\net6.0\Operators.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\bin\Debug\net6.0\Operators.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\Operators.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\refint\Operators.dll
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\Operators.pdb
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+C:\ElevenFiftyAcademy149\dotnetProjects\CsharpFundamentals\Operators\obj\Debug\net6.0\ref\Operators.dll
